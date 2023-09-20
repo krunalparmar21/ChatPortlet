@@ -1,0 +1,10 @@
+Bundle-Name: Instance-Chat-Module-api
+Bundle-SymbolicName: com.chat.socket.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.chat.socket.exception,\
+	com.chat.socket.model,\
+	com.chat.socket.service,\
+	com.chat.socket.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../Instance-Chat-Module-service/service.xml

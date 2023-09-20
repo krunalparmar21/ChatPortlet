@@ -1,0 +1,12 @@
+Bundle-Name: ChatConfgiration
+Bundle-SymbolicName: com.chat.configuration
+Bundle-Version: 1.0.0
+Export-Package: com.chat.configuration.constants\
+				com.chat.socket,\
+				com.chat.*,\
+				javax.websocket,\
+				org.json.simple,\
+				org.json.simple.parser,\
+				com.google.gson,\
+				com.google.gson.reflect,\
+				com.google.gson.stream;

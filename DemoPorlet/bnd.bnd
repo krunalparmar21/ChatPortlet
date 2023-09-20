@@ -1,0 +1,15 @@
+Bundle-Name: DemoPorlet
+Bundle-SymbolicName: com.chat.socket
+Bundle-Version: 1.0.0
+Export-Package: com.chat.socket.constants,\
+				javax.websocket,\
+				org.json.simple,\
+				org.json.simple.parser,\
+				com.google.gson,\
+				com.google.gson.reflect,\
+				com.google.gson.stream;
+
+import-Package :
+        com.liferay.portal.kernel.search,\
+        com.liferay.portal.kernel.search.generic;
+
