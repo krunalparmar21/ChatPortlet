@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 40 40"
+   style="enable-background:new 0 0 40 40;"
+   xml:space="preserve"
+   sodipodi:docname="Cartao Cidadao.svg"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"><metadata
+   id="metadata976"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs974" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="3440"
+   inkscape:window-height="1440"
+   id="namedview972"
+   showgrid="false"
+   inkscape:zoom="21.195526"
+   inkscape:cx="14.949289"
+   inkscape:cy="19.827267"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style949">
+	.st0{fill:none;stroke:#222E5E;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g
+   id="g969"
+   transform="matrix(0.97238258,0,0,0.97238258,0.5523485,0.5523485)">
+	<path
+   class="st0"
+   d="M 40,5.21 V 34.79 H 0 V 18.83 5.21 Z"
+   id="path951"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#222e5e;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+	<g
+   id="g967">
+		<path
+   class="st0"
+   d="M 18.66,12.52 H 35.91"
+   id="path953"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#222e5e;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+		<path
+   class="st0"
+   d="M 18.66,16.11 H 35.91"
+   id="path955"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#222e5e;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+		<path
+   class="st0"
+   d="M 18.66,19.7 H 35.91"
+   id="path957"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#222e5e;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+		<path
+   class="st0"
+   d="M 18.66,23.29 H 35.91"
+   id="path959"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#222e5e;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+		<path
+   class="st0"
+   d="m 18.66,27.48 h 6.52"
+   id="path961"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#222e5e;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+		<path
+   class="st0"
+   d="m 6.23,16.05 c 0,1.94 1.63,3.53 3.64,3.53 2.01,0 3.63,-1.58 3.63,-3.53 0,-1.95 -1.63,-3.53 -3.64,-3.53 -2.01,0 -3.63,1.59 -3.63,3.53 z"
+   id="path963"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#222e5e;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+		<path
+   class="st0"
+   d="m 9.87,19.75 c -3.19,0 -5.78,2.51 -5.78,5.59 v 0.87 c 0,0.36 0.29,0.66 0.65,0.66 0.01,0 0.01,0 0.02,0 h 10.21 c 0.36,0.01 0.66,-0.28 0.67,-0.64 0,-0.01 0,-0.01 0,-0.02 v -0.87 c 0,-3.08 -2.58,-5.59 -5.77,-5.59 z"
+   id="path965"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#222e5e;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+	</g>
+</g>
+</svg>

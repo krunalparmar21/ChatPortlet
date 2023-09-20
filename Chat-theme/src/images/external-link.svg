@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 30 30"
+   style="enable-background:new 0 0 30 30;"
+   xml:space="preserve"
+   sodipodi:docname="external-link.svg"
+   inkscape:version="1.0 (9f2f71dc58, 2020-08-02)"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1678"
+   inkscape:window-height="899"
+   id="namedview13"
+   showgrid="false"
+   inkscape:zoom="29.266667"
+   inkscape:cx="15"
+   inkscape:cy="15"
+   inkscape:window-x="3268"
+   inkscape:window-y="163"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="g10" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#222E5E;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#EBBB10;}
+	.st3{fill:#666666;}
+	.st4{fill:#808080;}
+	.st5{fill:#277FB6;}
+	.st6{fill:#22AF80;}
+	.st7{fill:none;stroke:#222E5E;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:#BEBEBE;}
+	.st9{fill:#1E3565;}
+	.st10{clip-path:url(#SVGID_2_);}
+	.st11{fill:none;stroke:#222E5E;stroke-miterlimit:10;}
+	.st12{fill:#A5A5A5;}
+	.st13{fill:#C0C0C0;}
+	.st14{opacity:0.1;}
+	.st15{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g
+   id="g10">
+	<path
+   class="st0"
+   d="M22.85,15.4c-0.28,0-0.5,0.22-0.5,0.5v8.6H5.5V7.65h8.74c0.28,0,0.5-0.22,0.5-0.5s-0.22-0.5-0.5-0.5H5   c-0.28,0-0.5,0.22-0.5,0.5V25c0,0.28,0.22,0.5,0.5,0.5h17.85c0.28,0,0.5-0.22,0.5-0.5v-9.1C23.35,15.62,23.13,15.4,22.85,15.4z"
+   id="path4"
+   style="fill:#ffffff;fill-opacity:1" />
+	<path
+   class="st0"
+   d="M25,4.5h-7.16c-0.28,0-0.5,0.22-0.5,0.5s0.22,0.5,0.5,0.5h5.95l-3.09,3.09c-0.2,0.2-0.2,0.51,0,0.71   c0.1,0.1,0.23,0.15,0.35,0.15s0.26-0.05,0.35-0.15l3.09-3.09v5.95c0,0.28,0.22,0.5,0.5,0.5s0.5-0.22,0.5-0.5V5   C25.5,4.72,25.28,4.5,25,4.5z"
+   id="path6"
+   style="fill:#ffffff;fill-opacity:1" />
+	<path
+   class="st0"
+   d="M17.08,13.42c0.13,0,0.26-0.05,0.35-0.15l1.45-1.45c0.2-0.2,0.2-0.51,0-0.71s-0.51-0.2-0.71,0l-1.45,1.45   c-0.2,0.2-0.2,0.51,0,0.71C16.83,13.37,16.95,13.42,17.08,13.42z"
+   id="path8"
+   style="fill:#ffffff;fill-opacity:1" />
+</g>
+</svg>

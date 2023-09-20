@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#222E5E;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#EBBB10;}
+	.st3{fill:#666666;}
+	.st4{fill:#808080;}
+	.st5{fill:#277FB6;}
+	.st6{fill:#22AF80;}
+	.st7{fill:none;stroke:#222E5E;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:#BEBEBE;}
+	.st9{fill:#1E3565;}
+	.st10{clip-path:url(#SVGID_2_);}
+	.st11{fill:none;stroke:#222E5E;stroke-miterlimit:10;}
+	.st12{fill:#A5A5A5;}
+	.st13{fill:#C0C0C0;}
+	.st14{opacity:0.1;}
+	.st15{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<rect x="3.13" y="40.02" class="st11" width="7.73" height="9.48"/>
+		<rect x="15.13" y="32.02" class="st11" width="7.73" height="17.48"/>
+		<rect x="27.13" y="20.02" class="st11" width="7.73" height="29.48"/>
+		<rect x="39.13" y="27.15" class="st11" width="7.73" height="22.35"/>
+	</g>
+	<g>
+		<polyline class="st11" points="6.5,35.71 35.23,6.98 39.12,10.87 48.99,1.01 		"/>
+		<polyline class="st11" points="43.57,0.5 49.5,0.5 49.5,6.43 		"/>
+	</g>
+	<g>
+		<circle class="st11" cx="10.55" cy="10.55" r="10.05"/>
+		<circle class="st11" cx="10.55" cy="10.55" r="7.31"/>
+		<g>
+			<line class="st11" x1="5.46" y1="9.41" x2="11.62" y2="9.41"/>
+			<line class="st11" x1="5.46" y1="11.25" x2="10.96" y2="11.25"/>
+			<path class="st11" d="M13.42,14.25c-0.62,0.35-1.34,0.56-2.11,0.56c-2.35,0-4.26-1.91-4.26-4.26s1.91-4.26,4.26-4.26
+				c0.65,0,1.27,0.15,1.82,0.41"/>
+		</g>
+	</g>
+</g>
+</svg>
