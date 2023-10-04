@@ -170,6 +170,8 @@
 				$('#<portlet:namespace/>text-font-family').val(data.fontFamily);
 
 				var array = data.selectedRole.split(",");
+
+				console.log('array data'+array);
 				$('#<portlet:namespace/>selectedValues').empty();
 				$('#<portlet:namespace/>availableValues').empty();
 				$.each(data.roles, function( index, item ) {
